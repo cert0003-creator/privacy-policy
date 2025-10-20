@@ -62,7 +62,7 @@ Past Life View는 사용자의 개인정보 보호 권리를 존중합니다. �
 앱에 접근할 수 없는 경우, 다음 방법으로 데이터 삭제를 요청할 수 있습니다:
 
 ### 이메일 요청
-**이메일**: [your-support-email@example.com]  
+**이메일**: [cert0003@gmail.com]  
 **제목**: 계정 및 데이터 삭제 요청  
 **내용**:
 - Google 계정 이메일 주소
@@ -98,9 +98,9 @@ Past Life View는 사용자의 개인정보 보호 권리를 존중합니다. �
 
 ## 개인정보 보호 담당자
 
-**문의처**: [your-support-email@example.com]  
-**회사명**: [Your Company Name]  
-**주소**: [Your Company Address]  
+**문의처**: [cert0003@egmail.com]  
+**회사명**: [인피니트랩]  
+**주소**: [인천시 남동구 인주대로614번길 2]  
 
 ## 정책 업데이트
 
